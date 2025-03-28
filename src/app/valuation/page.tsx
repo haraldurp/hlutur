@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Fyrirtækjasala</h1>
+      <h1>Verðmat</h1>
     </div>
   );
 }
